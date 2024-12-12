@@ -29,7 +29,7 @@ This work presents a knowledge systematization in the field of speech emotion re
 
 # How to Navigate and Use this Repository
 The summary table of our study can be found in the file "summary table.xlsx", where the 51 studies used in the Systematic Review and Meta-Analysis are outlined (Table 1, pp.11 in the paper). 
-More data and tools are organized according to the analysis axes that were followed in the systematic review and meta-analysis. Each analysis is contained in a single directory that contains tools and produced figures related to that analysis. Below is a brief description of the contents of each directory. For more information, please see the README files inside each directory.
+More data and tools are organized according to the analysis axes that were followed in the systematic review and meta-analysis. Each analysis is contained in a single directory that contains tools and produced figures related to that analysis. Below is a brief description of the contents of each directory. For more information, please see the README files inside each directory:
 
 - **_Systematic Search and Screening Results_**
 Contains data and results that describe the systematic search process, from the initial research questions that were used to shape keywords and search strings, to the results of the search in numbers, the screening process that was carried out through Rayyan, the results of the screening process as a PRISMA [6] flowchart, and the final studies along with their key characteristics. 
