@@ -42,7 +42,7 @@ Contains data and results that describe the systematic search process, from the 
 
 - **_Meta-Analysis_**: Contains tools and results for performing the meta-analysis. We utilized the 1.5 version of the _Meta-Essentials_ workbooks [8], that contains necessary tools to measure diagnostic test performance and assess heterogeneity of the studies
 
-- **_Affective Annotations Inter-Rater Reliability_**:
+- **_Affective Annotations Inter-Rater Reliability_**: contains data and files for implementing the inter-rater reliability analysis. IEMOCAP [1] and K-EmoCon [3] are used.
 
 # Citing this Work
 
