@@ -39,6 +39,7 @@ Contains data and results that describe the systematic search process, from the 
 - **_Methodological Quality_**
 
 - **_Risk of Bias Analysis - ROBINS-I_**
+Contains tools and results of the risk of bias analysis through the ROBINS-I tool (Risk of Bias In Non-randomised Studies- of Interventions) []. 
 
 - **_Meta-Analysis_**
 
@@ -51,3 +52,11 @@ If you found any part of this work useful, please cite the below reference:
 Ghada Alhussein, Ioannis Ziogas, Shiza Saleem, Leontios Hadjileontiadis. Speech Emotion Recognition in Conversations Using Artificial Intelligence: A Systematic Review and Meta-Analysis
 
 % -- Bibtex citation here --
+
+
+# References
+
+[]: Jonathan AC Sterne, Miguel A Hern´an, Barnaby C Reeves, Jelena Savovi´ c,
+ Nancy D Berkman, Meera Viswanathan, David Henry, Douglas G Altman,
+ Mohammed T Ansari, Isabelle Boutron, et al. Robins-i: a tool for assessing risk
+ of bias in non-randomised studies of interventions. bmj, 355, 2016.
