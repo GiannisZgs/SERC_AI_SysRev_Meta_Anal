@@ -7,7 +7,7 @@ Contains data and results that describe the systematic search process, from the 
 - _summary_search_: contains results of the search (in numbers) for each database.
 - _rayyan_screening.zip_: contains the 245 articles that were uploaded in Rayyan for full-text screening, in .ris format, and the screening logs with decisions and comments.
 - _PRISMA_2020_flow_diagram.docx_: the .docx file to create the PRISMA flowchart of the systematic search results (Fig.2 in the paper), according to the PRISMA-DTA guidelines [1].
-- _Summary_Table_: table summarizing the papers identified by the systematic search. 
+- _Summary_Table_: table summarizing the papers identified by the systematic search (Table 1 in the paper). 
 - _PRISMA_flowchart.jpg_: the PRISMA flowchart.
 - _systematic_review_results_statistics.jpg_: Statistics from the identified papers (datasets, years, language) (Fig.3 in the paper).
 
