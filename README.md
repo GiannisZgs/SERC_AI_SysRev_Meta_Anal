@@ -11,7 +11,7 @@ This work presents a knowledge systematization in the field of speech emotion re
 
 - **_Emotion recognition performance increases when conversations are acted_**, as the case is in datasets like IEMOCAP or MELD. Natural or naturalistic conversation scenarios such as K-EmoCon, demonstrated lower diagnostic test performance. 
 
--**_Speech unimodality performs better than speech multimodality_**, and this effect is statistically significant in the examined cohort.
+- **_Speech unimodality performs better than speech multimodality_**, and this effect is statistically significant in the examined cohort.
 
 - **_Deep features provide better performance than hand-crafted features_** and signal processing transformations, but this effect is not statistically significant. This implies that **_expert knowledge and inductive biases_** (e.g. through signal processing) **_will still be relevant_** in the near future of the SERC field.
 
