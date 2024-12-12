@@ -4,9 +4,6 @@ This repository contains the data, tools, and code, that were used to obtain the
 
 ![graphical_abstract_2](https://github.com/user-attachments/assets/0d6ece91-0484-49a3-bf51-1d0e6a30f6e9)
 
-# Overview 
-This work presents a knowledge systematization in the field of speech emotion recognition in conversations (SERC) using AI, for the years 2010-2023. Through a systematic search in 6 public databases, we identified 1932 relevant records; 51 of those met our inclusion criteria for a systematic review, and 27 of them met our criteria for a meta-analysis of diagnostic test performance in the emotion recognition in conversations task. After a rigorous methodological quality and risk of bias assessment, we carry out a multi-subgroup random-effects models analysis. We evaluate the diagnostic test performance of methods regarding their predictive power on categorical emotions (Ekman's model), and dimensional emotions (Russell's model), in terms of accuracy, F1-score and recall metrics. Inside the categorical and dimensional groups, we further analyze the effects of the conversation style of a dataset, the feature extraction method, and modalities used. Finally, we analyze the inter-rater reliability of annotations in the IEMOCAP and K-EmoCon datasets. Ultimately, our work concludes with the identified limitations of the SERC AI field, along with recommendations and best practices that should be followed in the design and analysis of SERC datasets.
-
 # Study Highlights
 
 - **_Emotion recognition performance increases when conversations are acted_**, as the case is in datasets like IEMOCAP or MELD. Natural or naturalistic conversation scenarios such as K-EmoCon, demonstrated lower diagnostic test performance. 
@@ -27,6 +24,8 @@ This work presents a knowledge systematization in the field of speech emotion re
 
 - **_Data selection for analysis differs across studies_**, even when the same datasets are used. This hinders comparability and reproducibility of the results.
 
+# Overview 
+This work presents a knowledge systematization in the field of speech emotion recognition in conversations (SERC) using AI, for the years 2010-2023. Through a systematic search in 6 public databases, we identified 1932 relevant records; 51 of those met our inclusion criteria for a systematic review, and 27 of them met our criteria for a meta-analysis of diagnostic test performance in the emotion recognition in conversations task. After a rigorous methodological quality and risk of bias assessment, we carry out a multi-subgroup random-effects models analysis. We evaluate the diagnostic test performance of methods regarding their predictive power on categorical emotions (Ekman's model), and dimensional emotions (Russell's model), in terms of accuracy, F1-score and recall metrics. Inside the categorical and dimensional groups, we further analyze the effects of the conversation style of a dataset, the feature extraction method, and modalities used. Finally, we analyze the inter-rater reliability of annotations in the IEMOCAP and K-EmoCon datasets. Ultimately, our work concludes with the identified limitations of the SERC AI field, along with recommendations and best practices that should be followed in the design and analysis of SERC datasets.
 
 # How to Navigate and Use this Repository
 The summary table of our study can be found in the file "summary table.xlsx", where the 51 studies used in the Systematic Review and Meta-Analysis are outlined (Table 1, pp.11 in the paper). 
