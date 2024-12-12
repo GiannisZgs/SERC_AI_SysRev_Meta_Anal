@@ -9,6 +9,11 @@ This directory contains data and files for implementing the inter-rater reliabil
 - **_kemocon_data_struct_**: annotations from the K-EmoCon dataset [2] used to produce the results.
 - **_cronbach_figures_**: the resulting figures.
 
+Example Result for the Happy emotion, K-EmoCon [2]:
+![happy_cronbach](https://github.com/user-attachments/assets/ed79a910-461d-4e4e-890d-a0730f9c1d90)
+
+
+
 # References:
 [1]: Carlos Busso, Murtaza Bulut, Chi-Chun Lee, Abe Kazemzadeh, Emily Mower,
  Samuel Kim, Jeannette N. Chang, Sungbok Lee, and Shrikanth S. Narayanan.
