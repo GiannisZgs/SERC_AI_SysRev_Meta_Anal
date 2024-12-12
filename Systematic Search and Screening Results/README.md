@@ -11,4 +11,4 @@ Contains data and results that describe the systematic search process, from the 
 - _PRISMA_flowchart.jpg_: the PRISMA flowchart.
 - _systematic_review_results_statistics.jpg_: Statistics from the identified papers (datasets, years, language).!
 
-[PRISMA_flowchart](https://github.com/user-attachments/assets/9d9d4c61-07d2-4b19-8022-eab05bfd7800)
+![PRISMA_flowchart](https://github.com/user-attachments/assets/9d9d4c61-07d2-4b19-8022-eab05bfd7800)
