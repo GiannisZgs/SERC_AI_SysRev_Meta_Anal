@@ -65,16 +65,16 @@ Ghada Alhussein, Ioannis Ziogas, Shiza Saleem, Leontios Hadjileontiadis. Speech 
 tion in conversations. In Proceedings of the 20th Annual SIGdial Meeting on
  Discourse and Dialogue, pages 62–72, 2019.
  
-[3]: Paul Ekman, E. Richard Sorenson, and Wallace V. Friesen. Pan-cultural
- elements in facial displays of emotion. Science, 164:86–88, 4 1969.
-
-[4]: James A Russell. A circumplex model of affect. Journal of personality and social
- psychology, 39(6):1161, 1980.
-
-[5]: Cheul Young Park, Narae Cha, Soowon Kang, Auk Kim, Ahsan Habib Khan
+[3]: Cheul Young Park, Narae Cha, Soowon Kang, Auk Kim, Ahsan Habib Khan
 doker, Leontios Hadjileontiadis, Alice Oh, Yong Jeong, and Uichin Lee. K
 emocon, a multimodal sensor dataset for continuous emotion recognition in
  naturalistic conversations. Scientific Data, 7(1):293, 2020. 
+
+[4]: Paul Ekman, E. Richard Sorenson, and Wallace V. Friesen. Pan-cultural
+ elements in facial displays of emotion. Science, 164:86–88, 4 1969. 
+
+[5]:  James A Russell. A circumplex model of affect. Journal of personality and social
+ psychology, 39(6):1161, 1980.
  
 [6]: Matthew DF McInnes, David Moher, Brett D Thombs, Trevor A McGrath,
  Patrick M Bossuyt, Tammy Clifford, J´ er´ emie F Cohen, Jonathan J Deeks, Con
@@ -87,7 +87,7 @@ stantine Gatsonis, Lotty Hooft, et al. Preferred reporting items for a systemati
  Mohammed T Ansari, Isabelle Boutron, et al. Robins-i: a tool for assessing risk
  of bias in non-randomised studies of interventions. bmj, 355, 2016.
 
- [8]: Robert Suurmond, Henk van Rhee, and Tony Hak. Introduction, compari
+[8]: Robert Suurmond, Henk van Rhee, and Tony Hak. Introduction, compari
 son, and validation of meta-essentials: a free and simple tool for meta-analysis.
 Research synthesis methods, 8(4):537–553, 2017
 
