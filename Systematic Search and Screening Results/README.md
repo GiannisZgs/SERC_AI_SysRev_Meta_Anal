@@ -9,7 +9,7 @@ Contains data and results that describe the systematic search process, from the 
 - _PRISMA_2020_flow_diagram.docx_: the .docx file to create the PRISMA flowchart of the systematic search results (Fig.2 in the paper), according to the PRISMA-DTA guidelines [1].
 - _Summary_Table_: table summarizing the papers identified by the systematic search. 
 - _PRISMA_flowchart.jpg_: the PRISMA flowchart.
-- _systematic_review_results_statistics.jpg_: Statistics from the identified papers (datasets, years, language).!
+- _systematic_review_results_statistics.jpg_: Statistics from the identified papers (datasets, years, language) (Fig.3 in the paper).
 
 ![PRISMA_flowchart](https://github.com/user-attachments/assets/9d9d4c61-07d2-4b19-8022-eab05bfd7800)
 
