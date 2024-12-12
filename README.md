@@ -32,7 +32,7 @@ The summary table of our study can be found in the file "summary table.xlsx", wh
 More data and tools are organized according to the analysis axes that were followed in the systematic review and meta-analysis. Each analysis is contained in a single directory that contains tools and produced figures related to that analysis. Below is a brief description of the contents of each directory. For more information, please see the README files inside each directory.
 
 - **_Systematic Search and Screening Results_**
-Contains data and results that describe the systematic search process, from the initial research questions that were used to shape keywords and search strings, to the results of the search in numbers, the screening process that was carried out through Rayyan, the results of the screening process and the final studies along with their key characteristics. 
+Contains data and results that describe the systematic search process, from the initial research questions that were used to shape keywords and search strings, to the results of the search in numbers, the screening process that was carried out through Rayyan, the results of the screening process as a PRISMA [] flowchart, and the final studies along with their key characteristics. 
 
 - **_Selected Papers_**
 
@@ -55,6 +55,11 @@ Ghada Alhussein, Ioannis Ziogas, Shiza Saleem, Leontios Hadjileontiadis. Speech 
 
 
 # References
+[]: Matthew DF McInnes, David Moher, Brett D Thombs, Trevor A McGrath,
+ Patrick M Bossuyt, Tammy Clifford, J´ er´ emie F Cohen, Jonathan J Deeks, Con
+stantine Gatsonis, Lotty Hooft, et al. Preferred reporting items for a systematic
+ review and meta-analysis of diagnostic test accuracy studies: the prisma-dta
+ statement. Jama, 319(4):388–396, 2018.
 
 []: Jonathan AC Sterne, Miguel A Hern´an, Barnaby C Reeves, Jelena Savovi´ c,
  Nancy D Berkman, Meera Viswanathan, David Henry, Douglas G Altman,
